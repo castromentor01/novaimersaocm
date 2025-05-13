@@ -165,10 +165,10 @@ export const tickets = [
     type: "Ingresso Diamond",
     price: "R$1497",
     features: [
-      "Kit Premium exclusivo",
+      "Kit Diamond exclusivo",
       "Acesso aos 2 dias de evento",
       "Coffee Break completo",
-      "Assento proximo ao palco",
+      "Assento na primeira fileira",
       "Acesso antecipado ao produto novo Low Ticket na Prática",
       "Coquetel de Networking no Escritório do Léo Castro na noite anterior ao evento",
       "Call de Hot Seat exclusiva Pós evento"
