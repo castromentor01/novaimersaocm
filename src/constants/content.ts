@@ -232,6 +232,6 @@ export const faqItems = [
   {
     id: 6,
     question: "O ingresso Premium da direito a acompanhante?",
-    answer: "Sim, todos que comprarem o Premium poderão lever uma pessoa."
+    answer: "Não, todos os ingressos são individuais."
   }
 ];
