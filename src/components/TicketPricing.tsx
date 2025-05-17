@@ -37,7 +37,7 @@ const TicketPricing: React.FC = () => {
               {/* Diamond badge */}
               {ticket.type === "Ingresso Diamond" && (
                 <div className="bg-gradient-to-r from-purple-500 via-pink-500 to-purple-500 text-white py-2 text-center font-bold">
-                  APENAS 10 VAGAS
+                  ESGOTADO
                 </div>
               )}
               
