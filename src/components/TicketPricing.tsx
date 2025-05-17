@@ -30,7 +30,7 @@ const TicketPricing: React.FC = () => {
               {/* Recommended badge */}
               {ticket.recommended && (
                 <div className="bg-yellow-500 text-navy-900 py-2 text-center font-bold">
-                  MAIS COMPRADO
+                  ESGOTADO
                 </div>
               )}
               
